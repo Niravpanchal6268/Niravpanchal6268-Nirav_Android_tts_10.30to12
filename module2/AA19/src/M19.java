@@ -8,8 +8,17 @@ equal to 1*2*3*. *(n-1) *n. E.g.-
 2! = 2*1 = 2
 Also, 1! = 1
 0! = 0*/
+class fact{
+	 
+	public void fact()
+	{
+		
+	}
+	
+}
 public class M19{
 	public static void main(String[] args) {
+		
 		
 	}
 }

@@ -26,7 +26,6 @@ public class Q9
 				other++;
 			}
 		}
-		
 		System.out.println("Total letters:"+letter);
 		System.out.println("Total Number :"+number);
 		System.out.println("Total Spaces:"+spaces);
