@@ -6,8 +6,10 @@ Sorry, insufficient balance, you need more 500 Rs. To perform this
 transaction*/
   class ac{
 	  private int balance =2000;
-	  public int Balance ()
+	  public int Balance (int bal)
 	  {
+		  this.balance=bal;
+		   	
 		return balance;  
 	  }
 	  

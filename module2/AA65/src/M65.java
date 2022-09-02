@@ -14,5 +14,7 @@ public class M65 {
 			h1.put(5, "jainik");
 		
 			System.out.println("collection view:"+h1.values());
+		
 		}
+		
 }

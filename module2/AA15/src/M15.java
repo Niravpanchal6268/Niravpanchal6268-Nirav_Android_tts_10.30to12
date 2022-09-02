@@ -2,6 +2,17 @@
 creating a class named 'Complex' with separate methods for each 
 operation whose real and imaginary parts are entered by user.*/
  class Complex{
+	 public void sum()
+	 {
+		 
+	 }
+	 public void difference() {
+		 
+	 }
+	 public void product()
+	 {
+		 
+	 }
 	 
  }
 public class M15 {
