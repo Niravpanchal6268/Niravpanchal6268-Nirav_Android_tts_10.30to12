@@ -10,8 +10,12 @@ Also, 1! = 1
 0! = 0*/
 class fact{
 	 
-	public void fact()
+	int Factorial (int n)
 	{
+		if(n==0)
+		return 1;
+		return n *Factorial(n-1);
+		
 		
 	}
 	
@@ -19,6 +23,12 @@ class fact{
 public class M19{
 	public static void main(String[] args) {
 		
+		Scanner sc= new Scanner(System.in);
+		System.out.println("Enter number:");
+		int num=sc.nextInt();
+		fact f1= new fact();
+		
+		System.out.println("factorial: "+f1.Factorial(num));
 		
 	}
 }
