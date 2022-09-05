@@ -1,4 +1,3 @@
-import java.nio.channels.NonReadableChannelException;
 import java.util.Scanner;
 
 /*W.A.J.P to create the validate method that takes integer value as a 
